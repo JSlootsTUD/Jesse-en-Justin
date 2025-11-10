@@ -3,8 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Jesse Langenberg
+    - name: Justin Sloots
 
   date: 2025-11-05
   github: https://jslootstud.github.io/Jesse-en-Justin/ # Change this URL to your GitHub repository
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://jslootstud.github.io/Jesse-en-Justin/issues # change this URL to your repository
+      url: https://github.com/JSlootsTUD/Jesse-en-Justin/issues # change this URL to your repository
