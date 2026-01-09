@@ -59,5 +59,6 @@ project:
       - title: Druk
         children:
           - file: Content/Labs/Druk/druksensorijken.ipynb
+          - file: Content/Labs/Druk/waxine.ipynb
           
       #     - file: Content/Labs/pV_diagram.ipynb
