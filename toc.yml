@@ -52,7 +52,7 @@ project:
       - title: Soortelijke warmte
         children:
           - file: Content/Lab/Soortelijke warmtes/cwater.ipynb
-          - file: Content/Labs/Soortelijke warmte/Verdamping.ipynb        
+          - file: Content/Labs/Soortelijke warmte/Verdamping labjournal IP2.ipynb        
           - file: Content/Labs/Soortelijke warmte/Warmtecapaciteit.ipynb
           - file: Content/Labs/Soortelijke warmte/koelbuis.ipynb
 
